@@ -1,4 +1,4 @@
-# twitter : a social media app
+# LinkLoop : a social media app
 
 ## Components and Package Dependencies:
 - 1.Firebase:
